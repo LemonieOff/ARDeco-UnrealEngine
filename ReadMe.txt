@@ -8,6 +8,30 @@ Configuration requise
 
 Unreal Engine 5 (version 5.3.1)
 Matériel de développement AR compatible
+Java : https://www.oracle.com/ca-fr/java/technologies/downloads/
+	Java 17 
+	Java jre-1.8 (il faut un comtpe oracle)
+Android Studio : https://developer.android.com/studio
+	Android 13 (Tiramisu) API level 33
+	Android SDK Build Tools
+ 	  - 34.0.0
+ 	  - 33.0.2
+	  - 33.0.1
+	  - 32.0.0
+ 	  - 30.0.3
+ 	  - 29.0.2
+	  - 28.0.3
+	Android NDK Build Tools
+ 	  - 25.1.8937393
+ 	  - 21.4.7075529
+ 	  - 21.1.6352462
+	Android SDK Command-line tools (tous les prendre pour être sur)
+	Cmake 3.10.2.4988404
+	Android Emulator
+	Android Emulator hypervisordriver (installer)
+	Android SDK Platform-tools
+	Google USB Driver
+	Intel x86 Emualtor Accelerator (HAXM installer) - Deprecated
 [Liste d'autres dépendances ici, le cas échéant]
 
 ----------------
@@ -45,7 +69,7 @@ Les membres de l'équipe examineront et fusionneront la demande d'extraction apr
 
 Gestion de projet
 
-Utilisez un outil de gestion de projet tel que Trello ou JIRA pour suivre les tâches et les attribuer aux membres de l'équipe.
+L'outil de gestion de projet est Github Project pour suivre les tâches et les attribuer aux membres de l'équipe.
 Assurez-vous de tenir des réunions régulières pour discuter de l'état du projet et des prochaines étapes.
 Documentation
 Documentez tout code complexe ou non évident.
