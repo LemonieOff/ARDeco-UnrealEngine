@@ -60,6 +60,11 @@ Build/*/**
 # Don't ignore icon files in Build
 !Build/**/*.ico
 
+# Don't ignore build keystores, resources and properties
+!Build/Android/*.keystore
+!Build/Android/*.properties
+!Build/Android/res/*
+
 # Built data for maps
 *_BuiltData.uasset
 

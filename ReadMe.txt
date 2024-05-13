@@ -6,32 +6,24 @@ Ce Readme contient des informations essentielles pour les membres de l'équipe t
 
 Configuration requise
 
-Unreal Engine 5 (version 5.3.1)
+Unreal Engine 5 (version 5.4.1)
 Matériel de développement AR compatible
-Java : https://www.oracle.com/ca-fr/java/technologies/downloads/
+Java : https://www.oracle.com/fr-fr/java/technologies/downloads/
 	Java 17 
-	Java jre-1.8 (il faut un comtpe oracle)
 Android Studio : https://developer.android.com/studio
 	Android 13 (Tiramisu) API level 33
 	Android SDK Build Tools
- 	  - 34.0.0
- 	  - 33.0.2
 	  - 33.0.1
-	  - 32.0.0
- 	  - 30.0.3
- 	  - 29.0.2
-	  - 28.0.3
 	Android NDK Build Tools
  	  - 25.1.8937393
- 	  - 21.4.7075529
- 	  - 21.1.6352462
 	Android SDK Command-line tools (tous les prendre pour être sur)
-	Cmake 3.10.2.4988404
+	Cmake 
+	  - 3.22.1
+	  - 3.10.2.4988404
 	Android Emulator
 	Android Emulator hypervisordriver (installer)
 	Android SDK Platform-tools
 	Google USB Driver
-	Intel x86 Emualtor Accelerator (HAXM installer) - Deprecated
 [Liste d'autres dépendances ici, le cas échéant]
 
 ----------------
