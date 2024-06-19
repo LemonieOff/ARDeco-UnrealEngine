@@ -25,6 +25,10 @@
 		{
 			"Name": "HttpBlueprint",
 			"Enabled": true
+		},
+		{
+			"Name": "JWT",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
