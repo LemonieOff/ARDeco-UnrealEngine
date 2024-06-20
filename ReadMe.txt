@@ -6,20 +6,21 @@ Ce Readme contient des informations essentielles pour les membres de l'équipe t
 
 Configuration requise
 
-Unreal Engine 5 (version 5.4.1)
+Unreal Engine 5 (version 5.4.2)
 Matériel de développement AR compatible
 Java : https://www.oracle.com/fr-fr/java/technologies/downloads/
 	Java 17 
-Android Studio : https://developer.android.com/studio
+Android Toolchains : 
+	Android Studio 2022.2.1 (ou supérieur) 
+	  - N'importe quelle version à partir d'Android Studio 2022.2.1
+	  - Android Studio 2024.1.1 a été testé et est compatible
+	  - Installation compatible en standalone (https://developer.android.com/studio) ou via JetBrains Toolbox
 	Android 13 (Tiramisu) API level 33
-	Android SDK Build Tools
-	  - 33.0.1
-	Android NDK Build Tools
- 	  - 25.1.8937393
-	Android SDK Command-line tools (tous les prendre pour être sur)
-	Cmake 
-	  - 3.22.1
-	  - 3.10.2.4988404
+	Android SDK Build Tools 33.0.1
+	Android NDK Build Tools 25.1.8937393
+	  - Les versions supérieures à la 25.1.8937393 sont compatibles mais nécessitent une configuration complexe supplémentaire au sein des fichiers de configuration du moteur 
+	Android SDK Command-line tools (latest)
+	Cmake 3.22.1
 	Android Emulator
 	Android Emulator hypervisordriver (installer)
 	Android SDK Platform-tools
