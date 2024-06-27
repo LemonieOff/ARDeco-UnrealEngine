@@ -27,6 +27,10 @@
 			"Enabled": true
 		},
 		{
+			"Name": "JWT",
+			"Enabled": true
+		},
+		{
 			"Name": "AndroidBackgroundService",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
