@@ -29,6 +29,101 @@
 		{
 			"Name": "JWT",
 			"Enabled": true
+		},
+		{
+			"Name": "AndroidBackgroundService",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Android"
+			]
+		},
+		{
+			"Name": "CLionSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "ChaosUserDataPT",
+			"Enabled": false
+		},
+		{
+			"Name": "ChaosEditor",
+			"Enabled": false
+		},
+		{
+			"Name": "ChaosCloth",
+			"Enabled": false
+		},
+		{
+			"Name": "ChaosVD",
+			"Enabled": false
+		},
+		{
+			"Name": "ChaosNiagara",
+			"Enabled": false
+		},
+		{
+			"Name": "ChaosSolverPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "SequencerAnimTools",
+			"Enabled": false
+		},
+		{
+			"Name": "AnimationModifierLibrary",
+			"Enabled": false
+		},
+		{
+			"Name": "AnimationSharing",
+			"Enabled": false
+		},
+		{
+			"Name": "AnimationData",
+			"Enabled": false
+		},
+		{
+			"Name": "ControlRigModules",
+			"Enabled": false
+		},
+		{
+			"Name": "ControlRigSpline",
+			"Enabled": false
+		},
+		{
+			"Name": "IKRig",
+			"Enabled": false
+		},
+		{
+			"Name": "ControlRig",
+			"Enabled": false
+		},
+		{
+			"Name": "GoogleARCoreServices",
+			"Enabled": true
+		},
+		{
+			"Name": "PlasticSourceControl",
+			"Enabled": false
+		},
+		{
+			"Name": "PerforceSourceControl",
+			"Enabled": false
+		},
+		{
+			"Name": "CodeLiteSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "N10XSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "KDevelopSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "SubversionSourceControl",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [

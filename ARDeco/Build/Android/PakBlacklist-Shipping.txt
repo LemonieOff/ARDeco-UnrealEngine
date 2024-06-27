@@ -1,0 +1,6 @@
+../../../Engine/Content/EngineDebugMaterials/
+../../../Engine/Content/EditorMeshes/Camera
+../../../Engine/Content/EngineSky
+../../../Engine/Content/Maps
+../../../Engine/Content/MapTemplates
+../../../Engine/Content/VREditor

@@ -63,6 +63,7 @@ Build/*/**
 # Don't ignore build keystores, resources and properties
 !Build/Android/*.keystore
 !Build/Android/*.properties
+!Build/Android/PakBlacklist-Shipping.txt
 !Build/Android/res/*
 
 # Built data for maps
