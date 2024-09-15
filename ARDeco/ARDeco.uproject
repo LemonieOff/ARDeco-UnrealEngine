@@ -262,10 +262,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "AndroidFileServer",
-			"Enabled": false
-		},
-		{
 			"Name": "LocationServicesBPLibrary",
 			"Enabled": false
 		},
