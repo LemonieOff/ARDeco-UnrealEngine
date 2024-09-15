@@ -126,19 +126,7 @@
 			"Enabled": false
 		},
 		{
-			"Name": "AudioSynesthesia",
-			"Enabled": true
-		},
-		{
-			"Name": "AudioWidgets",
-			"Enabled": true
-		},
-		{
 			"Name": "GeometryProcessing",
-			"Enabled": true
-		},
-		{
-			"Name": "WaveTable",
 			"Enabled": true
 		},
 		{
@@ -300,6 +288,53 @@
 		{
 			"Name": "GLTFExporter",
 			"Enabled": false
+		},
+		{
+			"Name": "AvfMedia",
+			"Enabled": false
+		},
+		{
+			"Name": "BlueprintStats",
+			"Enabled": true
+		},
+		{
+			"Name": "BackChannel",
+			"Enabled": false
+		},
+		{
+			"Name": "AppleMoviePlayer",
+			"Enabled": false
+		},
+		{
+			"Name": "AndroidMoviePlayer",
+			"Enabled": false
+		},
+		{
+			"Name": "AndroidMedia",
+			"Enabled": false
+		},
+		{
+			"Name": "WorldMetrics",
+			"Enabled": true
+		},
+		{
+			"Name": "VisualStudioSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "VisualStudioCodeSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "RenderDocPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "PixWinPlugin",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
 		}
 	],
 	"TargetPlatforms": [
