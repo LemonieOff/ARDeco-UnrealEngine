@@ -341,10 +341,6 @@
 			"SupportedTargetPlatforms": [
 				"Win64"
 			]
-		},
-		{
-			"Name": "SerializationUtils",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
